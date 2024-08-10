@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # AAJ-KA-WEATHER
 # AAJ-KA-WEATHER
 # AAJ-KA-WEATHER
+# Weather-app
